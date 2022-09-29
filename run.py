@@ -66,6 +66,7 @@ while(True):
     if(opcion == "8"):
         path = input("Path = ")
         print(arbol.getData(path))
+
         
 
 
